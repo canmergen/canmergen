@@ -21,4 +21,4 @@ This was achieved through advanced feature engineering, drift detection, ensembl
 - **ML / DL:** TensorFlow, PyTorch, XGBoost, LightGBM  
 - **MLOps:** CI/CD, model monitoring, scalable & compliant ML systems  
 
-I focus on building **reliable, interpretable, and business-aligned ML solutions** that are ready for real-world production environments.
+I focus on building **reliable, interpretable, and business-aligned ML & AI solutions** that are ready for real-world production environments.
